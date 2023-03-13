@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Three Face Magee",
+        "pic": "./images/faces.jpg",
+        "text": [
+            "I've broken down the best gas grills on the market by price so you can find the perfect gas grill for you.",
+            "While many of these gas grills are easily found, try shopping at specialty grill stores for the best BBQ"
+        ]
+    },
+    {
+        "name": "Jessica Bookburner",
+        "pic": "./images/burn-book.jpg",
+        "text": [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+            "",
+            "Reiciendis, consequatur!"
+        ]
+    },
+    {
+        "name": "Yorick",
+        "pic": "./images/skull.jpg",
+        "text": [
+            "It is to the grave, we go.",
+            "The isles were once paradise; now they're a prison.",
+            "This mist has become skin.",
+            "Life is but a brief disinterment."
+        ]
+    },
+    {
+        "name": "Jack Skellington",
+        "pic": "./images/skel.jpg",
+        "text": [
+            "There are children throwing snowballs, instead of throwing heads.",
+            "They're busy building toys and absolutely no one's dead"
+        ]
+    }
+]
